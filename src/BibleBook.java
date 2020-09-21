@@ -1,10 +1,10 @@
-public class Book 
+public class BibleBook 
 {
 	private String name;
 	private String description;
 	private int chapterNum;
 
-	public Book(String name, String description, int chapterNum)
+	public BibleBook(String name, String description, int chapterNum)
 	{
 		this.name = name;
 		this.description = description;
